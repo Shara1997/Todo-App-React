@@ -11,7 +11,9 @@ input{
 }
 
 .container-row{
-  margin: 10px 5px;
+  margin: 20px 15px;
+  width: 450px;
+  justify-content: space-evenly;
 }
 
 .action-btn{

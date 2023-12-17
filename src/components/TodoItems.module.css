@@ -1,3 +1,7 @@
 .todoContainer{
   text-align: left;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
 }
