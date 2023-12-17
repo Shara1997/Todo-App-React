@@ -1,0 +1,26 @@
+
+.todo-container{
+  margin-top: 50px;
+  display: flex;
+  place-items: center;
+  flex-direction: column;
+}
+
+input{
+  width: 100%;
+}
+
+.container-row{
+  margin: 10px 5px;
+}
+
+.action-btn{
+  min-width: 50px;
+  width: 100%;
+  margin-top: -4px;
+}
+
+.todo-row{
+  margin-bottom: 10px;
+  justify-content: center;
+}
