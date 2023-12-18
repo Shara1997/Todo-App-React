@@ -10,6 +10,10 @@ input{
   width: 100%;
 }
 
+.nameContainer{
+  word-break: break-word;
+}
+
 .container-row{
   margin: 20px 15px;
   width: 450px;
